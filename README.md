@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://heroku.com/deploy?template=https://github.com/libDrive/heroku">
+  <a href="https://heroku.com/deploy?template=https://github.com/James-Herald-Watson/heroku">
     <img src="https://www.herokucdn.com/deploy/button.svg" />
   </a>
 </p>
